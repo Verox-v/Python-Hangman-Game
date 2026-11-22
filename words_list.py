@@ -1,0 +1,22 @@
+words = (
+    "apple", "banana", "orange", "strawberry", "watermelon",
+    "pineapple", "blueberry", "raspberry", "blackberry", "grapefruit",
+    "lemon", "lime", "peach", "plum", "cherry",
+    "mango", "papaya", "coconut", "avocado", "apricot",
+    "computer", "keyboard", "monitor", "processor", "software",
+    "hardware", "internet", "database", "programming", "developer",
+    "algorithm", "variable", "function", "parameter", "terminal",
+    "keyboard", "application", "encryption", "password", "firewall",
+    "python", "javascript", "minecraft", "videogame", "controller",
+    "headphones", "microphone", "speakers", "smartphone", "laptop",
+    "airplane", "helicopter", "submarine", "motorcycle", "bicycle",
+    "ambulance", "firefighter", "policeman", "astronaut", "scientist",
+    "engineer", "architect", "photographer", "journalist", "musician",
+    "mountain", "waterfall", "forest", "desert", "volcano",
+    "island", "ocean", "river", "glacier", "canyon",
+    "thunder", "lightning", "rainbow", "earthquake", "hurricane",
+    "planet", "galaxy", "universe", "asteroid", "comet",
+    "satellite", "telescope", "gravity", "oxygen", "hydrogen",
+    "elephant", "giraffe", "kangaroo", "penguin", "crocodile",
+    "dolphin", "octopus", "butterfly", "scorpion", "flamingo"
+    )
